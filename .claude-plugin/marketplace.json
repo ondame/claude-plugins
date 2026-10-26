@@ -1,0 +1,12 @@
+{
+  "name": "ondame",
+  "owner": { "name": "ONDA Inc.", "email": "support@onda.me" },
+  "metadata": { "description": "Claude Code plugins for the ONDA Developer Center" },
+  "plugins": [
+    {
+      "name": "onda-developer-center",
+      "source": "./plugins/onda-developer-center",
+      "description": "Configure the ONDA Developer Center and call the Channel and Supply APIs from Claude Code, through the ondadc MCP server."
+    }
+  ]
+}

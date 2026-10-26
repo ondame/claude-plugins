@@ -1,0 +1,25 @@
+{
+  "name": "onda-developer-center",
+  "version": "0.1.0",
+  "description": "Configure the ONDA Developer Center (apps, API keys, webhooks, organizations, members) and call the Channel and Supply APIs from Claude Code, through the ondadc MCP server.",
+  "author": {
+    "name": "ONDA Inc.",
+    "email": "support@onda.me"
+  },
+  "homepage": "https://developers.tport.dev/docs/mcp/",
+  "repository": "https://github.com/ondame/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "onda",
+    "travel",
+    "hotel",
+    "booking",
+    "mcp",
+    "developer-center"
+  ],
+  "documentationUrl": "https://developers.tport.dev/docs/mcp/",
+  "supportUrl": "https://developers.tport.dev/support/",
+  "privacyPolicyUrl": "https://developers.tport.dev/privacy/",
+  "termsOfServiceUrl": "https://developers.tport.dev/terms/",
+  "icon": ".claude-plugin/icon.png"
+}
