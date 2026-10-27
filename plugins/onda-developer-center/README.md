@@ -23,7 +23,7 @@ With an API key instead (`ONDADC_API_KEY` set, or an `api-keys` profile), the se
    claude plugin install onda-developer-center@ondame
    ```
 
-There is no Windows build of `ondadc`. On Windows, connect Claude Code to the remote server `https://api.tport.dev/mcp` as described in the [MCP documentation](https://developers.tport.dev/docs/mcp/).
+There is no Windows build of `ondadc`. On Windows, connect Claude Code to the remote server `https://portal-api.developers.tport.dev/mcp` by signing in, as described in the [MCP documentation](https://developers.tport.dev/docs/mcp/#connect-by-signing-in-oauth). It serves the same console and partner tools.
 
 ## Links
 
